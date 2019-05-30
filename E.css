@@ -1,0 +1,24 @@
+/*
+	Color header: #34495E;
+	Color borde: 0F362D;
+	Color iluminado: #85929E;
+*/
+
+}
+.contenedor-columnas{ 
+	width: 100%;
+	margin: auto;  
+
+}
+ 
+.columnasx3 {
+	width:33.333%;
+	float: left;
+
+ }
+
+
+
+
+
+
